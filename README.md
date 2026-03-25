@@ -55,7 +55,7 @@
 const skills = {
   languages: ['JavaScript', 'TypeScript'],
   frameworks: ['React', 'Svelte'],
-  styling: ['CSS3', 'HTML5', 'Responsive Design', 'TailwindCss']
+  others: ['CSS3', 'HTML5', 'Responsive Design', 'TailwindCss']
 }
 ```
 
