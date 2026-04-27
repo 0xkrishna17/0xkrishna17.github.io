@@ -21,7 +21,7 @@
 
 ### 💼 Professional Experience
 
-#### **Senior Frontend Engineer @ Texco** *(2026 - current)*
+#### **Senior Frontend Engineer @ Tesco** *(2026 - Current)*
 
 **🎨 Platform Modernization**
 - Currently migrating a monolithic Next.js 14 application to Next.js 16, transitioning toward a Micro-Frontend (MicroFE) architecture. Working on decoupling core features into independently deployable modules to improve scalability, maintainability, and team autonomy, while preserving a seamless and consistent user experience.
