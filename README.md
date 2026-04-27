@@ -1,4 +1,4 @@
-# Hi there, I'm Krishna Kumar 👋
+# Hi there 👋
 
 ## Senior Frontend Engineer | Performance & Scale Enthusiast
 
