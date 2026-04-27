@@ -137,6 +137,7 @@ I'm always open to discussing frontend architecture, performance optimization, o
 
 - 📧 Email: krishnaacc123@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/krishna9199](https://linkedin.com/in/krishna9199)
+- Github: [0xkrishna17](https://github.com/0xkrishna17)
 
 ---
 
@@ -144,6 +145,6 @@ I'm always open to discussing frontend architecture, performance optimization, o
 
 **"Building experiences that are fast, scalable, and convert"**
 
-⭐️ From [Krishna Kumar](https://github.com/krishnaacc123)
+⭐️ From [Krishna Kumar](https://0xkrishna17.github.io)
 
 </div>
