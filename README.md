@@ -137,7 +137,6 @@ I'm always open to discussing frontend architecture, performance optimization, o
 
 - 📧 Email: krishnaacc123@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/krishna9199](https://linkedin.com/in/krishna9199)
-- 📱 Phone: +91 9040866906
 
 ---
 
