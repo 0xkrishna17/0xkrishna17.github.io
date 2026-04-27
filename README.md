@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## Senior Frontend Engineer | Performance & Scale Enthusiast
+# Hi there 👋 I'm a Senior Frontend Engineer currently working at Tesco | Performance & Scale Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/krishna9199)
 [![Email](https://img.shields.io/badge/Email-krishnaacc123%40gmail.com-red?style=flat&logo=gmail)](mailto:krishnaacc123@gmail.com)
