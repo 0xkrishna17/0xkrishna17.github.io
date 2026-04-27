@@ -21,6 +21,11 @@
 
 ### 💼 Professional Experience
 
+#### **Senior Frontend Engineer @ Texco** *(2026 - current)*
+
+**🎨 Platform Modernization**
+- Currently migrating a monolithic Next.js 14 application to Next.js 16, transitioning toward a Micro-Frontend (MicroFE) architecture. Working on decoupling core features into independently deployable modules to improve scalability, maintainability, and team autonomy, while preserving a seamless and consistent user experience.
+
 #### **Senior Frontend Engineer @ Razorpay** *(2019 - 2025)*
 
 **🎨 Platform Modernization & Performance**
@@ -42,7 +47,7 @@
 - Mentored team members on best practices and modern frontend architecture
 - Drove frontend technical decisions across multiple high-impact projects
 
-** OSS contribution**
+**⚡ OSS contribution**
 - https://github.com/razorpay/blade
 
 #### **Frontend Developer @ Cybage Software** *(2018)*
