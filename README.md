@@ -42,6 +42,9 @@
 - Mentored team members on best practices and modern frontend architecture
 - Drove frontend technical decisions across multiple high-impact projects
 
+** OSS contribution**
+- https://github.com/razorpay/blade
+
 #### **Frontend Developer @ Cybage Software** *(2018)*
 - Built responsive web applications using React.js, HTML5, and CSS3
 - Delivered scalable features and reusable UI components in collaboration with design and QA teams
