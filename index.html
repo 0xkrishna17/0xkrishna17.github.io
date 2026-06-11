@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Krishna Kumar — Resume</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Georgia', serif;
+    font-size: 10.5pt;
+    color: #1a1a1a;
+    background: #fff;
+    line-height: 1.45;
+  }
+
+  .page {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 42px 52px;
+  }
+
+  /* ── HEADER ── */
+  .header {
+    padding-bottom: 14px;
+    border-bottom: 2px solid #1a1a1a;
+    margin-bottom: 16px;
+  }
+
+  .header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .header h1 {
+    font-family: 'Georgia', serif;
+    font-size: 22pt;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    color: #0d0d0d;
+    line-height: 1.1;
+  }
+
+  .header-title {
+    font-size: 10.5pt;
+    color: #555;
+    font-style: italic;
+    margin-top: 3px;
+  }
+
+  .contact-block {
+    text-align: right;
+    font-size: 8.8pt;
+    color: #444;
+    line-height: 1.7;
+  }
+
+  .contact-block a {
+    color: #1a4fa8;
+    text-decoration: none;
+  }
+
+  /* ── SECTION ── */
+  .section {
+    margin-bottom: 13px;
+  }
+
+  .section-title {
+    font-size: 8.5pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.13em;
+    color: #1a1a1a;
+    border-bottom: 0.75px solid #aaa;
+    padding-bottom: 3px;
+    margin-bottom: 8px;
+  }
+
+  /* ── SUMMARY ── */
+  .summary p {
+    font-size: 9.8pt;
+    color: #2c2c2c;
+    line-height: 1.65;
+  }
+
+  /* ── TWO-COLUMN LAYOUT ── */
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 220px;
+    gap: 0 28px;
+  }
+
+  .main-col {}
+  .side-col {}
+
+  /* ── EXPERIENCE ── */
+  .entry {
+    margin-bottom: 11px;
+  }
+
+  .entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 1px;
+  }
+
+  .entry-org {
+    font-weight: 700;
+    font-size: 10pt;
+    color: #0d0d0d;
+  }
+
+  .entry-meta {
+    font-size: 8.8pt;
+    color: #555;
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  .entry-role-line {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 5px;
+  }
+
+  .entry-role {
+    font-style: italic;
+    font-size: 9.5pt;
+    color: #444;
+  }
+
+  ul.bullets {
+    margin-left: 16px;
+    list-style: disc;
+  }
+
+  ul.bullets li {
+    font-size: 9.5pt;
+    color: #2a2a2a;
+    margin-bottom: 3px;
+    line-height: 1.5;
+  }
+
+  ul.bullets li strong {
+    font-weight: 700;
+    color: #0d0d0d;
+  }
+
+  /* ── SIDE COLUMN SECTIONS ── */
+  .side-section {
+    margin-bottom: 14px;
+  }
+
+  .side-section-title {
+    font-size: 8.5pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.13em;
+    color: #1a1a1a;
+    border-bottom: 0.75px solid #aaa;
+    padding-bottom: 3px;
+    margin-bottom: 8px;
+  }
+
+  .skill-group {
+    margin-bottom: 7px;
+  }
+
+  .skill-group-label {
+    font-weight: 700;
+    font-size: 8.8pt;
+    color: #1a1a1a;
+    margin-bottom: 2px;
+  }
+
+  .skill-group-items {
+    font-size: 8.8pt;
+    color: #333;
+    line-height: 1.55;
+  }
+
+  /* ── EDUCATION ── */
+  .edu-entry {
+    margin-bottom: 8px;
+  }
+
+  .edu-degree {
+    font-weight: 700;
+    font-size: 9pt;
+    color: #0d0d0d;
+    line-height: 1.4;
+  }
+
+  .edu-inst {
+    font-size: 8.8pt;
+    color: #444;
+    margin-top: 1px;
+  }
+
+  .edu-year {
+    font-size: 8.5pt;
+    color: #666;
+    margin-top: 1px;
+  }
+
+  @media print {
+    body { font-size: 10pt; }
+    .page { padding: 28px 40px; }
+    a { color: inherit !important; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <header class="header">
+    <div class="header-top">
+      <div>
+        <h1>Krishna Kumar</h1>
+        <div class="header-title">Senior Frontend Engineer</div>
+      </div>
+      <div class="contact-block">
+        9040866906<br>
+        <a href="mailto:krishnaacc123@gmail.com">krishnaacc123@gmail.com</a><br>
+        <a href="https://linkedin.com/in/krishna9199">linkedin.com/in/krishna9199</a><br>
+        Bengaluru, India
+      </div>
+    </div>
+  </header>
+
+  <!-- SUMMARY -->
+  <section class="section summary">
+    <div class="section-title">Summary</div>
+    <p>8+ years of experience building and owning high-scale web platforms and onboarding experiences, with a strong focus on performance, conversion, and scalable UI architecture across critical customer journeys. Experienced in driving frontend decisions, cross-functional collaboration, and experimentation at scale.</p>
+  </section>
+
+  <!-- TWO-COLUMN BODY -->
+  <div class="two-col">
+
+    <!-- LEFT: Experience -->
+    <div class="main-col">
+      <section class="section">
+        <div class="section-title">Experience</div>
+
+        <div class="entry">
+          <div class="entry-header">
+            <span class="entry-org">Razorpay</span>
+            <span class="entry-meta">Bengaluru, India &nbsp;·&nbsp; 2019 – 2025</span>
+          </div>
+          <div class="entry-role-line">
+            <span class="entry-role">Senior Frontend Engineer</span>
+          </div>
+          <ul class="bullets">
+            <li>Led migration of multi-step Signup from Angular to React, improving maintainability while driving <strong>~10% conversion uplift</strong>.</li>
+            <li>Architected the React <strong>SSR website</strong>, improving LCP 3.8s → 2.1s, reducing FCP by <strong>~40%</strong>, and enabling region expansion via i18n.</li>
+            <li>Technical lead for <strong>Apple Pay integration</strong> on Svelte Checkout, improving Success Rate by ~20% and driving <strong>~2% GMV growth</strong> through phased rollouts.</li>
+            <li>Designed config-driven modular <strong>onboarding micro-frontend components</strong>, cutting new flow launch time by <strong>~30%</strong>.</li>
+            <li>Led A/B experimentation (AWS Lambda) and built a <strong>product discovery AI chatbot UI</strong> delivering ~8% CTR uplift.</li>
+            <li>Built <strong>API playground</strong> to standardize developer workflows; mentored team members, enhancing overall engagement by ~20%.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-header">
+            <span class="entry-org">Cybage Software Pvt. Ltd</span>
+            <span class="entry-meta">Pune &nbsp;·&nbsp; 2018</span>
+          </div>
+          <div class="entry-role-line">
+            <span class="entry-role">Frontend Developer</span>
+          </div>
+          <ul class="bullets">
+            <li>Built responsive web applications using React.js, HTML5, and CSS3.</li>
+            <li>Collaborated with design and QA teams to deliver scalable features and reusable UI components.</li>
+          </ul>
+        </div>
+      </section>
+    </div>
+
+    <!-- RIGHT: Skills + Education -->
+    <div class="side-col">
+
+      <div class="side-section">
+        <div class="side-section-title">Skills</div>
+
+        <div class="skill-group">
+          <div class="skill-group-label">Languages &amp; Frameworks</div>
+          <div class="skill-group-items">JavaScript, TypeScript<br>React, Svelte</div>
+        </div>
+
+        <div class="skill-group">
+          <div class="skill-group-label">Frontend Systems</div>
+          <div class="skill-group-items">SSR, Micro-frontends<br>Component Architecture</div>
+        </div>
+
+        <div class="skill-group">
+          <div class="skill-group-label">Performance</div>
+          <div class="skill-group-items">Core Web Vitals<br>Web Performance Optimization</div>
+        </div>
+
+        <div class="skill-group">
+          <div class="skill-group-label">Product &amp; Scale</div>
+          <div class="skill-group-items">A/B Experimentation, CRO<br>Internationalization (i18n)<br>Mentorship</div>
+        </div>
+
+        <div class="skill-group">
+          <div class="skill-group-label">Platforms Built</div>
+          <div class="skill-group-items">AI Chatbot, User Dashboard<br>API Playground</div>
+        </div>
+      </div>
+
+      <div class="side-section">
+        <div class="side-section-title">Education</div>
+
+        <div class="edu-entry">
+          <div class="edu-degree">B.Tech, Information Technology</div>
+          <div class="edu-inst">KIIT University, Bhubaneswar</div>
+          <div class="edu-year">2016 &nbsp;·&nbsp; 8.12 CGPA</div>
+        </div>
+
+        <div class="edu-entry">
+          <div class="edu-degree">Senior Secondary, CBSE</div>
+          <div class="edu-inst">Holy Cross School, Ranchi</div>
+          <div class="edu-year">2012</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
